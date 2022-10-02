@@ -1,0 +1,21 @@
+button{
+    margin: 10px;
+    width: 120px;
+    padding: 10px;
+   
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.add{
+    background: #C2151B;
+    color: #040204;
+    border: 2px solid #040204;
+}
+
+.sub{
+    background: #040204;
+    color: #C2151B;
+    border: 2px solid #C2151B;
+}

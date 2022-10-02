@@ -1,1 +1,1 @@
-# contador
+Esse é um contador simples criado para ajudar na pratica do contextApi.
